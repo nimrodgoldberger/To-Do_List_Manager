@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "To-Do_List_Manager", "To-Do_List_Manager\To-Do_List_Manager.csproj", "{6534E74D-8018-4E37-A9FC-86724ECF6C93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6534E74D-8018-4E37-A9FC-86724ECF6C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6534E74D-8018-4E37-A9FC-86724ECF6C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6534E74D-8018-4E37-A9FC-86724ECF6C93}.Debug|x64.ActiveCfg = Debug|x64
+		{6534E74D-8018-4E37-A9FC-86724ECF6C93}.Debug|x64.Build.0 = Debug|x64
+		{6534E74D-8018-4E37-A9FC-86724ECF6C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6534E74D-8018-4E37-A9FC-86724ECF6C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6534E74D-8018-4E37-A9FC-86724ECF6C93}.Release|x64.ActiveCfg = Release|x64
+		{6534E74D-8018-4E37-A9FC-86724ECF6C93}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8277F425-3B97-4887-B052-A804800B509E}
+	EndGlobalSection
+EndGlobal
